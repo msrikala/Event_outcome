@@ -9,7 +9,7 @@ The general fields in the csv are explained below.
   1.Tweet:Tweets in plain English obtained from scratch using Twitter api.
   2.Image_Url: If the tweet possess image, the url to the related image.
   3.Image name: Name assigned to each image. This name is obtained from the url for easier identification.
-  4. Cooking/Baking Event:This field determines if the mentioned tweet is a related to a cooking/baking  event. Assigned labels are either 'yes' or 'no'.
+  4.Cooking/Baking Event:This field determines if the mentioned tweet is a related to a cooking/baking  event. Assigned labels are either 'yes' or 'no'.
   5.Edible or not: This field determines if the event resulted in an edible outcome or not. We defined edible as ' something that is worth trying and not trashed'. Labels assigned are 'yes' or 'no'.
   6.Output Quality: This field determines the quality of the outcome produced.Labels assigned are:
           1.Perfect : If event resulted in perfect outcome as expected.
