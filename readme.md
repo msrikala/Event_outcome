@@ -1,6 +1,4 @@
 # Determining  Event Outcomes: The case of #fail
-This repository includes the annotated datasets used in the paper.
-
 
 ## Datasets
 This folder contains the annotated datasets used in the project and it has the following files:
