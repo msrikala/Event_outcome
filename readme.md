@@ -4,10 +4,10 @@ This repository includes the annotated datasets used in the paper.
 
 ## Datasets
 This folder contains the annotated datasets used in the project and it has the following files:
- - FinalOutputBaking.csv contains 1000 baking related tweets that did not possess a related image,their annotated  labels and respective tweet ids.
- - FinalOutputBakingImg.csv contains 1000 baking related tweets that did possess a related image,image url,image name, their annotated  labels and respective tweet ids.
- - FinalOutputCooking.csv contains 1000 cooking related tweets that did not possess a related image,their annotated  labels and respective tweet ids.
- - FinalOutputCooking Img.csv contains 1000 cooking related tweets that did possess a related image,image url,image name,their annotated  labels and respective tweet ids.
+ - FinalOutputBaking.csv that contains 1000 baking related tweets that did not possess a related image,their annotated  labels and respective tweet ids.
+ - FinalOutputBakingImg.csv that contains 1000 baking related tweets with a related image,image url,image name, their annotated  labels and respective tweet ids.
+ - FinalOutputCooking.csv that contains 1000 cooking related tweets that did not possess a related image,their annotated  labels and respective tweet ids.
+ - FinalOutputCooking Img.csv that contains 1000 cooking related tweets with a related image,image url,image name,their annotated  labels and respective tweet ids.
 ##### Attributes and their explaination
 - Tweet: Tweets in plain English obtained from scratch using Twitter api.
 - Image_Url: If the tweet possess image, the url to the related image.
